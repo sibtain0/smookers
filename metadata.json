@@ -1,0 +1,6 @@
+{
+  "name": "AKHAI Smokers Toothpaste",
+  "description": "Bold, luxury oral care engineered for modern lifestyle choices. Dark metallic packaging, embossed gold accents, and advanced smoker stain defense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
